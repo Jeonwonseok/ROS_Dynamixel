@@ -31,8 +31,8 @@ ADDR_MX_GOAL_POSITION       = 30
 ADDR_MX_PRESENT_POSITION    = 36
 
 # Data Byte Length
-LEN_MX_GOAL_POSITION        = 12
-LEN_MX_PRESENT_POSITION     = 12
+LEN_MX_GOAL_POSITION        = 2
+LEN_MX_PRESENT_POSITION     = 2
 
 # Protocol version
 PROTOCOL_VERSION            = 1                             # See which protocol version is used in the Dynamixel
